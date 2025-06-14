@@ -10,6 +10,7 @@
 
 ## 🧑‍💻 About Me
 
+- 🎓 I'm currently pursuing **B.E. Computer Science and Engineering** at **Coimbatore Institute of Technology (CIT)** — Class of **2027**
 - 🔭 I’m currently working on **innovative Android, KMP, and Full Stack Web Projects**
 - 🌱 I’m currently learning **Next.js, TypeScript & Kotlin Multiplatform**
 - 🧠 I actively participate in **Competitive Programming** contests on LeetCode, Codeforces, and HackerRank
