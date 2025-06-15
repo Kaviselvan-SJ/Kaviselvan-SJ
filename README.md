@@ -83,4 +83,4 @@ Here are some of my notable projects:
 
 ---
 
-<p align="center">Thanks for visiting my GitHub profile! 💻✨</p>
+<p align="center">Thanks for visiting my GitHub profile! 💻✨ </p>
