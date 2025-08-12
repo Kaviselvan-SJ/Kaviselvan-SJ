@@ -10,11 +10,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm currently pursuing **B.E. Computer Science and Engineering** at **Coimbatore Institute of Technology (CIT)** — Class of **2027**
-- 🔭 I’m currently working on **innovative Android, KMP, and Full Stack Web Projects**
-- 🌱 I’m currently learning **Next.js, TypeScript & Kotlin Multiplatform**
-- 🧠 I actively participate in **Competitive Programming** contests on LeetCode, Codeforces, and HackerRank
-- 👨‍💻 Check out my portfolio at:
+- 🎓 Pursuing **B.E. in Computer Science and Engineering** at **Coimbatore Institute of Technology (CIT)** — Class of **2027**  
+- 🔭 Building **innovative Android apps**, **Kotlin Multiplatform (KMP) solutions**, and **full-stack web projects** 
+- 🧠 Passionate about **Competitive Programming** — active on **LeetCode**, **CodeChef**, and **GeeksForGeeks**
+- 👨‍💻 Check out my portfolio at: https://kaviselvan-portfolio.vercel.app
 - 💬 Ask me about **Java, Kotlin, React, TailwindCSS, Node.js**
 - ⚡ Fun fact: I debug my dreams too 🛠️
 
@@ -29,13 +28,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🧩 Frameworks & Libraries
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 ### 🗃️ Databases & Tools
@@ -78,7 +77,7 @@ Here are some of my notable projects:
   <a href="mailto:sjkaviselvan07@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kaviselvan-sj/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/kaviselvan_sj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://kaviselvan-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
